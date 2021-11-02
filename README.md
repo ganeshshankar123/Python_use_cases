@@ -14,7 +14,6 @@ loaded to the database. The script should include the following elements.
 2. Web Scrapping Example:
 -------------------------------
 
-You will be tested on Web Scraping skills in this section.
 The mission is to extract, transform and load the data of the top 100 movies of year 2020 from Rotten
 Tomatoes via web scraping. Build a web scraper using Python packages of your choice to obtain the
 required data and load it to a Database. The script should include the following elements.
